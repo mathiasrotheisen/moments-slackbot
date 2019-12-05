@@ -1,0 +1,17 @@
+{
+  "name": "moments-bot",
+  "version": "1.0.0",
+  "description": "moments-bot for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "testtest"
+  },
+  "keywords": [
+    "moments"
+  ],
+  "author": "mathias rotheisen",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
